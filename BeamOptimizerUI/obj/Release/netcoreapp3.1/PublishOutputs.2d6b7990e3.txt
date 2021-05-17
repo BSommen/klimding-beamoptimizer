@@ -1,0 +1,5 @@
+\\nas\Software Distribute\BeamOptimizer\Application Files\BeamOptimizerUI.exe
+\\nas\Software Distribute\BeamOptimizer\Application Files\BeamOptimizerUI.dll
+\\nas\Software Distribute\BeamOptimizer\Application Files\BeamOptimizerUI.deps.json
+\\nas\Software Distribute\BeamOptimizer\Application Files\BeamOptimizerUI.runtimeconfig.json
+\\nas\Software Distribute\BeamOptimizer\Application Files\BeamOptimizerUI.pdb

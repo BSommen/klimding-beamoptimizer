@@ -1,0 +1,6 @@
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Debug\netcoreapp3.1\publish\BeamOptimizer.exe
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Debug\netcoreapp3.1\publish\BeamOptimizer.dll
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Debug\netcoreapp3.1\publish\BeamOptimizer.deps.json
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Debug\netcoreapp3.1\publish\BeamOptimizer.runtimeconfig.json
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Debug\netcoreapp3.1\publish\BeamOptimizer.pdb
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Debug\netcoreapp3.1\publish\ExcelDataReader.dll

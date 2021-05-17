@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4YJIspXZ/C3v2lIPvoYtlSePOmdpRp+zqme4JNrg6q3pICsfSldhZOtJIA5y67wSLlFFYkMHErK73nmRPzhf1w==",
+  "success": true,
+  "projectFilePath": "C:\\000_AAA_MyCoreProjects\\klimding-beamoptimizer\\BeamOptimizerUI\\BeamOptimizerUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bram\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\Bram\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.13\\microsoft.netcore.app.runtime.win-x86.3.1.13.nupkg.sha512",
+    "C:\\Users\\Bram\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.13\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.13.nupkg.sha512",
+    "C:\\Users\\Bram\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.13\\microsoft.aspnetcore.app.runtime.win-x86.3.1.13.nupkg.sha512",
+    "C:\\Users\\Bram\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.13\\microsoft.netcore.app.host.win-x86.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

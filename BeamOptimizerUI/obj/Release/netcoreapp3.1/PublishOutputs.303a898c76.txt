@@ -1,0 +1,9 @@
+L:\Bram\BeamOptimizer2\BeamOptimizer.exe
+L:\Bram\BeamOptimizer2\BeamOptimizerUI.exe
+L:\Bram\BeamOptimizer2\BeamOptimizerUI.dll
+L:\Bram\BeamOptimizer2\BeamOptimizerUI.deps.json
+L:\Bram\BeamOptimizer2\BeamOptimizerUI.runtimeconfig.json
+L:\Bram\BeamOptimizer2\BeamOptimizerUI.pdb
+L:\Bram\BeamOptimizer2\ExcelDataReader.dll
+L:\Bram\BeamOptimizer2\BeamOptimizer.dll
+L:\Bram\BeamOptimizer2\BeamOptimizer.pdb

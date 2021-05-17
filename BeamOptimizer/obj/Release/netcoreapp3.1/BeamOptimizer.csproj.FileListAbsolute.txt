@@ -1,0 +1,30 @@
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Release\netcoreapp3.1\BeamOptimizer.exe
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Release\netcoreapp3.1\BeamOptimizer.deps.json
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Release\netcoreapp3.1\BeamOptimizer.runtimeconfig.json
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Release\netcoreapp3.1\BeamOptimizer.runtimeconfig.dev.json
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Release\netcoreapp3.1\BeamOptimizer.dll
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Release\netcoreapp3.1\BeamOptimizer.pdb
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Release\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\obj\Release\netcoreapp3.1\BeamOptimizer.csprojAssemblyReference.cache
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\obj\Release\netcoreapp3.1\BeamOptimizer.AssemblyInfoInputs.cache
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\obj\Release\netcoreapp3.1\BeamOptimizer.AssemblyInfo.cs
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\obj\Release\netcoreapp3.1\BeamOptimizer.csproj.CoreCompileInputs.cache
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\obj\Release\netcoreapp3.1\BeamOptimizer.csproj.CopyComplete
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\obj\Release\netcoreapp3.1\BeamOptimizer.dll
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\obj\Release\netcoreapp3.1\BeamOptimizer.pdb
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\obj\Release\netcoreapp3.1\BeamOptimizer.genruntimeconfig.cache
+C:\000_AAA_MyCoreProjects\klimding-beamoptimizer\BeamOptimizer\bin\Release\netcoreapp3.1\BeamOptimizer.exe
+C:\000_AAA_MyCoreProjects\klimding-beamoptimizer\BeamOptimizer\bin\Release\netcoreapp3.1\BeamOptimizer.deps.json
+C:\000_AAA_MyCoreProjects\klimding-beamoptimizer\BeamOptimizer\bin\Release\netcoreapp3.1\BeamOptimizer.runtimeconfig.json
+C:\000_AAA_MyCoreProjects\klimding-beamoptimizer\BeamOptimizer\bin\Release\netcoreapp3.1\BeamOptimizer.runtimeconfig.dev.json
+C:\000_AAA_MyCoreProjects\klimding-beamoptimizer\BeamOptimizer\bin\Release\netcoreapp3.1\BeamOptimizer.dll
+C:\000_AAA_MyCoreProjects\klimding-beamoptimizer\BeamOptimizer\bin\Release\netcoreapp3.1\BeamOptimizer.pdb
+C:\000_AAA_MyCoreProjects\klimding-beamoptimizer\BeamOptimizer\bin\Release\netcoreapp3.1\ExcelDataReader.dll
+C:\000_AAA_MyCoreProjects\klimding-beamoptimizer\BeamOptimizer\obj\Release\netcoreapp3.1\BeamOptimizer.csprojAssemblyReference.cache
+C:\000_AAA_MyCoreProjects\klimding-beamoptimizer\BeamOptimizer\obj\Release\netcoreapp3.1\BeamOptimizer.AssemblyInfoInputs.cache
+C:\000_AAA_MyCoreProjects\klimding-beamoptimizer\BeamOptimizer\obj\Release\netcoreapp3.1\BeamOptimizer.AssemblyInfo.cs
+C:\000_AAA_MyCoreProjects\klimding-beamoptimizer\BeamOptimizer\obj\Release\netcoreapp3.1\BeamOptimizer.csproj.CoreCompileInputs.cache
+C:\000_AAA_MyCoreProjects\klimding-beamoptimizer\BeamOptimizer\obj\Release\netcoreapp3.1\BeamOptimizer.csproj.CopyComplete
+C:\000_AAA_MyCoreProjects\klimding-beamoptimizer\BeamOptimizer\obj\Release\netcoreapp3.1\BeamOptimizer.dll
+C:\000_AAA_MyCoreProjects\klimding-beamoptimizer\BeamOptimizer\obj\Release\netcoreapp3.1\BeamOptimizer.pdb
+C:\000_AAA_MyCoreProjects\klimding-beamoptimizer\BeamOptimizer\obj\Release\netcoreapp3.1\BeamOptimizer.genruntimeconfig.cache

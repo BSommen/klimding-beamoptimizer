@@ -1,0 +1,6 @@
+\\nas\Software Distribute\BeamOptimizer\BeamOptimizer.exe
+\\nas\Software Distribute\BeamOptimizer\BeamOptimizer.dll
+\\nas\Software Distribute\BeamOptimizer\BeamOptimizer.deps.json
+\\nas\Software Distribute\BeamOptimizer\BeamOptimizer.runtimeconfig.json
+\\nas\Software Distribute\BeamOptimizer\BeamOptimizer.pdb
+\\nas\Software Distribute\BeamOptimizer\ExcelDataReader.dll

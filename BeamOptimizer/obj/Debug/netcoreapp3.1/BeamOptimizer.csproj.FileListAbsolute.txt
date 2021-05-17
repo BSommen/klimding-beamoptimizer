@@ -1,0 +1,15 @@
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Debug\netcoreapp3.1\BeamOptimizer.exe
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Debug\netcoreapp3.1\BeamOptimizer.deps.json
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Debug\netcoreapp3.1\BeamOptimizer.runtimeconfig.json
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Debug\netcoreapp3.1\BeamOptimizer.runtimeconfig.dev.json
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Debug\netcoreapp3.1\BeamOptimizer.dll
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Debug\netcoreapp3.1\BeamOptimizer.pdb
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\obj\Debug\netcoreapp3.1\BeamOptimizer.AssemblyInfoInputs.cache
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\obj\Debug\netcoreapp3.1\BeamOptimizer.AssemblyInfo.cs
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\obj\Debug\netcoreapp3.1\BeamOptimizer.csproj.CoreCompileInputs.cache
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\obj\Debug\netcoreapp3.1\BeamOptimizer.csproj.CopyComplete
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\obj\Debug\netcoreapp3.1\BeamOptimizer.dll
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\obj\Debug\netcoreapp3.1\BeamOptimizer.pdb
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\obj\Debug\netcoreapp3.1\BeamOptimizer.genruntimeconfig.cache
+C:\Users\Bram\Dropbox\ERVO Bram\BeamOptimizer\BeamOptimizer\obj\Debug\netcoreapp3.1\BeamOptimizer.csprojAssemblyReference.cache
