@@ -11,8 +11,9 @@ namespace BeamOptimizer
 {
     public class BeamOptimizerProcess
     {
-        public BeamOptimizerProcess(string grondStoffenPath, string stukkenPath, string targetPath, ITextReader<Grondstof> grondstofReader, ITextReader<Stuk> stukReader)
+        public BeamOptimizerProcess(string projectName, string grondStoffenPath, string stukkenPath, string targetPath, ITextReader<Grondstof> grondstofReader, ITextReader<Stuk> stukReader)
         {
+            ProjectName = projectName;
             GrondStoffenPath = grondStoffenPath;
             StukkenPath = stukkenPath;
             TargetPath = targetPath;
@@ -20,6 +21,8 @@ namespace BeamOptimizer
             StukReader = stukReader;
         }
 
+
+        public string ProjectName { get; set; }
         public string GrondStoffenPath { get; private set; }
         public string StukkenPath { get; private set; }
         public string TargetPath { get; private set; }
@@ -166,7 +169,7 @@ namespace BeamOptimizer
 
             var MaxStukkenPerBalk = beams.Max(x => x.Stukken.Count);
 
-            using (StreamWriter doc = new StreamWriter($"{TargetPath}\\Zaaglijst.csv"))
+            using (StreamWriter doc = new StreamWriter($"{TargetPath}\\{ProjectName}_Zaaglijst.csv"))
             {
                 var headers = $"BeamID;Houtsoort;Breedte;Hoogte;TOTALE LENGTE;GEBRUIKTE LENGTE;OVERSCHOT";
 
@@ -196,7 +199,7 @@ namespace BeamOptimizer
 
         private  void WriteOrderListCsv(List<BeamGroup> grouping)
         {
-            using (StreamWriter doc = new StreamWriter($"{TargetPath}\\OrderList.csv"))
+            using (StreamWriter doc = new StreamWriter($"{TargetPath}\\{ProjectName}_OrderList.csv"))
             {
                 doc.WriteLine($"AANTAL;Houtsoort;Breedte;Hoogte;Lengte;EP Excl;EP Incl;Tot Excl;Tot Incl;");
 

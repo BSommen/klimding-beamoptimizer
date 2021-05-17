@@ -114,7 +114,7 @@ namespace BeamOptimizerUI
             }
 
             // Project en stukkenbestand bestaat - Start Render
-            var optimizerProcess = new BeamOptimizerProcess(TbxGrondstoffenBestand.Text, stukkenBestand,projectFolder, new GrondstofCsvReader(), new StukCsvReader());
+            var optimizerProcess = new BeamOptimizerProcess(projectName, TbxGrondstoffenBestand.Text, stukkenBestand,projectFolder, new GrondstofCsvReader(), new StukCsvReader());
             optimizerProcess.Run();
 
             MessageBox.Show("Met een beetje geluk staat er nu een zaaglijst en orderlijst klaar in de project map. En nu, hop hop aan het werk!");

@@ -69,11 +69,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\000_AAA_MyCoreProjects\\klimding-beamoptimizer\\BeamOptimizerUI\\BeamOptimizerUI.csproj",
+      "projectUniqueName": "C:\\000_AAA_MyCoreProjects\\Github\\klimding-beamoptimizer\\BeamOptimizerUI\\BeamOptimizerUI.csproj",
       "projectName": "BeamOptimizerUI",
-      "projectPath": "C:\\000_AAA_MyCoreProjects\\klimding-beamoptimizer\\BeamOptimizerUI\\BeamOptimizerUI.csproj",
+      "projectPath": "C:\\000_AAA_MyCoreProjects\\Github\\klimding-beamoptimizer\\BeamOptimizerUI\\BeamOptimizerUI.csproj",
       "packagesPath": "C:\\Users\\Bram\\.nuget\\packages\\",
-      "outputPath": "C:\\000_AAA_MyCoreProjects\\klimding-beamoptimizer\\BeamOptimizerUI\\obj\\",
+      "outputPath": "C:\\000_AAA_MyCoreProjects\\Github\\klimding-beamoptimizer\\BeamOptimizerUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -96,8 +96,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\000_AAA_MyCoreProjects\\klimding-beamoptimizer\\BeamOptimizer\\BeamOptimizer.csproj": {
-              "projectPath": "C:\\000_AAA_MyCoreProjects\\klimding-beamoptimizer\\BeamOptimizer\\BeamOptimizer.csproj"
+            "C:\\000_AAA_MyCoreProjects\\Github\\klimding-beamoptimizer\\BeamOptimizer\\BeamOptimizer.csproj": {
+              "projectPath": "C:\\000_AAA_MyCoreProjects\\Github\\klimding-beamoptimizer\\BeamOptimizer\\BeamOptimizer.csproj"
             }
           }
         }

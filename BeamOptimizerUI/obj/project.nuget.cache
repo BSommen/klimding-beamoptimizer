@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q/3hxA2nNI7fuh6Ed9UgsgbMkFJEfLcWNajn6aXMmcB1Xcb8D5FL7Av2uumqSsFI7r1oP8xXffPaRTiQ1Af1wA==",
+  "dgSpecHash": "AK5cHFpNexZyIVevaal1RQz0cQwghj1duXb2kG5P7zdpfmKPr3clgwfa4yh7jr8WtiEab8kA62CC6uX1+z6mTQ==",
   "success": true,
-  "projectFilePath": "C:\\000_AAA_MyCoreProjects\\klimding-beamoptimizer\\BeamOptimizerUI\\BeamOptimizerUI.csproj",
+  "projectFilePath": "C:\\000_AAA_MyCoreProjects\\Github\\klimding-beamoptimizer\\BeamOptimizerUI\\BeamOptimizerUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bram\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
     "C:\\Users\\Bram\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"

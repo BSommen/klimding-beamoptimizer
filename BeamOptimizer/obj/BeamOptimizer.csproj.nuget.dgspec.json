@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\000_AAA_MyCoreProjects\\klimding-beamoptimizer\\BeamOptimizer\\BeamOptimizer.csproj": {}
+    "C:\\000_AAA_MyCoreProjects\\Github\\klimding-beamoptimizer\\BeamOptimizer\\BeamOptimizer.csproj": {}
   },
   "projects": {
-    "C:\\000_AAA_MyCoreProjects\\klimding-beamoptimizer\\BeamOptimizer\\BeamOptimizer.csproj": {
+    "C:\\000_AAA_MyCoreProjects\\Github\\klimding-beamoptimizer\\BeamOptimizer\\BeamOptimizer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\000_AAA_MyCoreProjects\\klimding-beamoptimizer\\BeamOptimizer\\BeamOptimizer.csproj",
+        "projectUniqueName": "C:\\000_AAA_MyCoreProjects\\Github\\klimding-beamoptimizer\\BeamOptimizer\\BeamOptimizer.csproj",
         "projectName": "BeamOptimizer",
-        "projectPath": "C:\\000_AAA_MyCoreProjects\\klimding-beamoptimizer\\BeamOptimizer\\BeamOptimizer.csproj",
+        "projectPath": "C:\\000_AAA_MyCoreProjects\\Github\\klimding-beamoptimizer\\BeamOptimizer\\BeamOptimizer.csproj",
         "packagesPath": "C:\\Users\\Bram\\.nuget\\packages\\",
-        "outputPath": "C:\\000_AAA_MyCoreProjects\\klimding-beamoptimizer\\BeamOptimizer\\obj\\",
+        "outputPath": "C:\\000_AAA_MyCoreProjects\\Github\\klimding-beamoptimizer\\BeamOptimizer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -63,7 +63,19 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+              "version": "[3.1.13, 3.1.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x86",
+              "version": "[3.1.13, 3.1.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x86",
+              "version": "[3.1.13, 3.1.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
               "version": "[3.1.13, 3.1.13]"
             }
           ],
@@ -73,6 +85,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
         }
       }
     }
